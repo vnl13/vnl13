@@ -1,3 +1,23 @@
-### Hi there 👋
+## 🇺🇸 Welcome | Bem-vindo 🇧🇷
 
-- 🌱 I’m currently learning ReactJS and React Native
+### Hey, I'm Victor
+
+### Some facts (just a TL;DR):
+- 🌱 I’m currently learning ReactJS
+- 👨‍🦱 20 years old
+- 🖥️ Computer Science student 
+- 🏫 UNIP
+- 🏛️ Living in Santos, Sao Paulo (Brazil)
+- 🐧 (Newcomer) Linux enthusiast
+- 🇺🇸 FCE Cambridge
+
+### 🚀 Some skills
+- JavaScript
+- React.js
+- Node.js
+- HTML
+- CSS
+- Git
+- Bash
+- PHP
+- Golang
