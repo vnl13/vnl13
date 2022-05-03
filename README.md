@@ -2,22 +2,27 @@
 
 ### Hey, I'm Victor
 
-### Some facts (just a TL;DR):
-- 🌱 I’m currently learning ReactJS
+### About me
+
+- 🌱 I’m currently studying about ReactJS and Node.js
 - 👨‍🦱 20 years old
-- 🖥️ Computer Science student 
-- 🏫 UNIP
+- 🖥️ Computer Science student at Universidade Paulista (UNIP)
 - 🏛️ Living in Santos, Sao Paulo (Brazil)
-- 🐧 (Newcomer) Linux enthusiast
-- 🇺🇸 FCE Cambridge
+- 🐧 Linux enthusiast
 
 ### 🚀 Some skills
-- JavaScript
-- React.js
-- Node.js
+
 - HTML
 - CSS
+- JavaScript
+- TypeScript
+- PHP
+- Go / Golang
+- Python
+- React.js
+- Next.js
+- Node.js
+- Express
+- Styled-components (CSS-in-JS)
 - Git
 - Bash
-- PHP
-- Golang
