@@ -5,7 +5,7 @@
 ### About me
 
 - 🌱 I’m currently studying about ReactJS and Node.js
-- 👨‍🦱 20 years old
+- 👨‍🦱 21 years old
 - 🖥️ Computer Science student at Universidade Paulista (UNIP)
 - 🏛️ Living in Santos, Sao Paulo (Brazil)
 - 🐧 Linux enthusiast
